@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on SQL and Express<br>I'm looking to collaborate on MERN and frontend projects<br>I'm currently learning Reactjs and  Mongodb<br>Ask me about JavaScript<br>Fun fact I code Daily 💫
+🔭I'm currently working on SQL and Express<br>
+👯I'm looking to collaborate on MERN and frontend projects<br>
+🌱I'm currently learning Reactjs and  Mongodb<br>
+💬Ask me about JavaScript<br>⚡Fun fact I code Daily 💫
 
 
 ## 🌐 Socials:
