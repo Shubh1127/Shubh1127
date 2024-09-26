@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/26077345-64a1-4d2e-9b59-331f12acf331)# 💫 About Me:
+# 💫 About Me:
 🔭I'm currently working on MongoDB and React<br>
 👯I'm looking to collaborate on MERN and frontend projects<br>
 🌱I'm currently learning Reactjs and  Mongodb<br>
