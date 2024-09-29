@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![Shubh1127's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh1127&show_icons=true&theme=transparent)<br/>
 ![Shubh1127's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubh1127&theme=transparent&type=SVG)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1127&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh1127&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubh1127&theme=radical&no-frame=false&no-bg=true&margin-w=4)
