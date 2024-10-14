@@ -1,3 +1,9 @@
+<p align="center">
+
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
 # 💫 About Me:
 🔭I'm currently working on MongoDB and React<br>
 👯I'm looking to collaborate on MERN and frontend projects<br>
