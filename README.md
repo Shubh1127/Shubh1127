@@ -1,6 +1,6 @@
 <p align="center">
 
-![image](./assets/assets/bmw-m5-in-dark.jpg)
+![image](./assets/bmw-m5-in-dark.jpg)
 
 </p>
 
