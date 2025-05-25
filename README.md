@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭I'm currently working on MongoDB and React<br>
 👯I'm looking to collaborate on MERN and frontend projects<br>
-🌱I'm currently learning Reactjs and  Mongodb<br>
+🌱I'm currently learning<br> System Design | AWS | Data Structures | TypeScript<br>
 💬Ask me about JavaScript<br>⚡Fun fact I code Daily 💫
 
 
