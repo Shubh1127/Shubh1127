@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🔭I'm currently working on Typescript and React<br>
+🔭I'm currently working on typescript and React<br>
 👯I'm looking to collaborate on MERN and frontend projects<br>
 🌱I'm currently learning<br> System Design | AWS | Data Structures | TypeScript<br>
 💬Ask me about JavaScript<br>⚡Fun fact I code Daily 💫
